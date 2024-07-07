@@ -7,10 +7,8 @@ AWS-powered Android App developed in kotlin that allows users to upload images o
 
 # UI
 
-![home_screen_with_image](https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/c44e3c21-d89f-4c06-b155-39a553b452f5)
-
-![result](https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/14abdd28-58bb-42ce-ae82-4a1b67df9f8e)
-
-![sus_result](https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/2124883b-1cfc-4295-b1ef-603d8cf19f14)
-
-![history](https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/f8709bd0-12bc-4b31-9956-0195b7152970)
+<img src="https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/c37dfd2e-7d64-4757-aaf6-7a04281f07c0" width=300 height=700/>
+<img src="https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/e029bdbb-b2d4-4ea8-bb1b-fb19145cac09" width=300 height=700/>
+<img src="https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/1bc6d257-98e9-48cb-be77-a57cdb985c62" width=300 height=700/>
+<img src="https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/7fd73422-cde0-4c6e-85df-82bfe775e46b" width=300 height=700/>
+<img src="https://github.com/svkrishna10/Android-AWS-App-for-Sustainable-Spending/assets/92803667/1a4be70c-b03a-49e9-a00b-e3aeaf17978a" width=300 height=700/>
