@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/earth"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:scaleType="centerCrop"/>
+
+
+    <TextView
+        android:id="@+id/textAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageViewLogo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Sustainability Checker"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/textAppName"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/darker_gray"/>
+
+    <!-- About Title -->
+    <TextView
+        android:id="@+id/textAboutTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/divider"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="About"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textAboutTitle"
+        android:layout_marginTop="16dp"
+        android:text="Our app is a cutting-edge solution for promoting sustainability in everyday life. Integrated with Gemini and AWS, it empowers users to make environmentally conscious decisions by analyzing receipts or bills. Leveraging external APIs, our app categorizes each item on the receipt as sustainable or not. With detailed insights, users can track their eco-friendly spending habits and contribute to a greener future. Join us in our mission to revolutionize sustainable consumption and create a more environmentally friendly society."
+        android:textSize="16sp" />
+
+
+
+</RelativeLayout>
